@@ -9,6 +9,7 @@ specifica (in questo caso un colore) agli elementi di un container
 quando sono un certo numero determinato.
 
 https://codepen.io/matthemattics/pen/ExaQZQR
+https://stackoverflow.com/questions/8720931/can-css-detect-the-number-of-children-an-element-has
 IL CODICE DI ESEMPIO PROVIENE DA QUI. 
 
 ---UPDATE---
